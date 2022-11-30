@@ -46,3 +46,12 @@ header {
 	padding-top: 120px;
 }
 
+#insta {
+	max-width: 50%;
+	max-height: 50%;
+}
+
+p {
+	max-width: 50%;
+	max-height: 50%;
+}
