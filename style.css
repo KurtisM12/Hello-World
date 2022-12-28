@@ -90,50 +90,49 @@ img {
 .panel_2 {
 	color: white;
 	font-family: 'Kanit', sans-serif;
-	
-	width: 90%;
-	height: auto;
-	margin-left: 0;
-	
-	margin-top: 40px;
-	padding: 20px;
-	border-radius: 20px;
+
 }
 
 .panel_2 .post_title_2 {
 	color: white;
 	font-family: 'Kanit', sans-serif;
-	font-size: 34px;
-	font-weight: 400;
-	text-align: center;
 	background-color: #24252a;
-	width: 50%;
+	width: 70%;
 	height: auto;
-	margin-left: -20px;
+	margin-left: auto;
+	margin-right: auto;
 	margin-top: 40px;
-	padding: 10px;
+	padding: 20px;
 	border-radius: 20px;
+	font-weight: 300;
 }
 
 .panel_2 .post_title_2 .its {
 	color: #34A65F;
 	background-color: #24252a;
+	font-size: 60px;
+	font-weight: 500;
 }
 
 .panel_2 .post_title_2 .christmas {
 	color: #CC231E;
 	background-color: #24252a;
+	font-size: 60px;
+	font-weight: 500;
 }
 .panel_2 .post_title_2 .time {
 	color: #34A65F;
 	background-color: #24252a;
+	font-size: 60px;
+	font-weight: 500;
 }
 
 .panel_2 h2 {
 	font-weight: 400;
 	margin-top: -40px;
 	width: 50%;
-	margin-left: -20px;
+	margin-left: auto;
+	margin-right: auto;
 } 
 
 strong {
